@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAALqXTOci4hUGQLnO2WNugEQAAAAACAAAAAAAQZgAAAAEAACAAAADmTDRLwUs64JeGukkb+aaHbOOXvcUyx2c01kc2WLY5VAAAAAAOgAAAAAIAACAAAAA01mq6EhWpQ/VA/UZbijKHmsSCzuWX0tWVC2ooyJPA7IAAAACT/PdYLhq48H03MGACCx6xRq0OSABUWXf0kpt3tLiDLRDVmVFORiwaOBNN5MmF6I/J/jAU32gp8rIkEm3hmex0vgvdyr2nh3TWkolWFCv07ZvurJ7IijoNrq+GQNHX1v6cROO9TGzM5Nc3ZSXkL5fJhBvDJsRth1e2WpG+xPr1EkAAAADsESLsrQzaqEQq+VdFm49mepS2IAvD4eAZIFD8Ta3u1kTOJ9+tmvh2uCEIRPGN3RPAW3V1YutazvXxX5rRl7EP</EncryptedPassword>
+    <History>True|2022-12-12T22:38:49.4165802Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="WebApiAutores.ApplicationDbContext">
+      <Value>Data Source=tcp:webapiautoresdbserverr.database.windows.net,1433%3bInitial Catalog=WebApiAutores_db%3bUser Id=Tobi117%40webapiautoresdbserverr%3bPassword=Aldebaran619</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
